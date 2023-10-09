@@ -31,6 +31,9 @@
     "clear G5",
     "clear G6",
     "clear G7",
-    "flag G8"
+    "flag G8",
+    "flag F3",
+    "clear F2",
+    "flag F1"
   ]
 }
